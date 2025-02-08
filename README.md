@@ -19,7 +19,7 @@ Displays results in a formatted table
 ```
 
 ## Initial Directory  
-![Initial Directory](path/to/initial-directory-image.png)  
+![Initial Directory]("C:\Users\asus\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-08 141600.png")  
 
 ## Compile & Run  
 ```sh
