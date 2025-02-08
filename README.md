@@ -19,8 +19,8 @@ Displays results in a formatted table
 ```
 
 ## Initial Directory  
-![Initial Directory]("C:\Users\asus\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-08 141600.png")  
-
+![Screenshot 2025-02-08 141600](https://github.com/user-attachments/assets/7a9b55e4-9a6e-440b-ab0a-c08f67c541bf)
+  
 ## Compile & Run  
 ```sh
 gcc phonebook.c -o phonebook  
@@ -38,7 +38,7 @@ Contact Found:
 +----------+--------------+-----------------+  
 ```
 
-## Initial v/s Sorted Directory  
+## Sorted Directory  
 ![Sorted Directory](path/to/sorted-directory-image.png)  
 
 ## Why Binary Search?  
