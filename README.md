@@ -39,7 +39,7 @@ Contact Found:
 ```
 
 ## Sorted Directory  
-![Sorted Directory](path/to/sorted-directory-image.png)  
+"C:\Users\asus\OneDrive\Pictures\Screenshots 1\Screenshot 2025-02-08 141619.png" 
 
 ## Why Binary Search?  
 O(log n) complexity → Fast searches!  
